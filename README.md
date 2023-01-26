@@ -15,7 +15,6 @@ which plays the game of Chrome Dinosaur. The model has been trained on a
 small dataset cause, Oh Please! I'm broke, I don't have a high-end GPU and 
 colab crashes when the data is large and the model is complex. 
  
-The model works fine enough. I achieved a total score of 300 after training it for about 40 minutes. 
 
 Here is the short clip how the AI performed in the first 2 minutes of training:
 
